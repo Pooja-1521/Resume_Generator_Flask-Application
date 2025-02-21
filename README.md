@@ -1,4 +1,4 @@
-Resume Generator Web Application
+#Resume Generator Web Application
  
 Resume Generator Web Application built using Flask (Python) and HTML/CSS. It allows users to input their personal details, work experience, education, skills, projects, and certifications through a web interface. The application dynamically generates an HTML-based resume and stores it in an AWS S3 bucket for retrieval.
 
@@ -12,21 +12,12 @@ Technologies Used
   - AWS S3 (boto3 library)
 
 
-
-
 Usage
 1. Enter your details in the web form.
 2. Upload your profile picture.
 3. Submit the form to generate the resume.
 4. Download the resume via the provided link.
 
-Folder Structure
-
-resume-generator/
-│── templates/
-│   ├── index.html  # Web form interface
-│── app.py          # Flask backend
-│── README.md       # Project documentation
 
 
 FOR more reference:
