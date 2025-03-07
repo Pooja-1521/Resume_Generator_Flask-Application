@@ -1,4 +1,4 @@
-#Resume Generator Web Application
+# Smart Blind Walking Stick with Location Detection
  
 Resume Generator Web Application built using Flask (Python) and HTML/CSS. It allows users to input their personal details, work experience, education, skills, projects, and certifications through a web interface. The application dynamically generates an HTML-based resume and stores it in an AWS S3 bucket for retrieval.
 
